@@ -1,0 +1,17 @@
+C:\Users\natya\source\repos\WinApp\bin\Debug\netcoreapp3.1\WinApp.exe
+C:\Users\natya\source\repos\WinApp\bin\Debug\netcoreapp3.1\WinApp.deps.json
+C:\Users\natya\source\repos\WinApp\bin\Debug\netcoreapp3.1\WinApp.runtimeconfig.json
+C:\Users\natya\source\repos\WinApp\bin\Debug\netcoreapp3.1\WinApp.runtimeconfig.dev.json
+C:\Users\natya\source\repos\WinApp\bin\Debug\netcoreapp3.1\WinApp.dll
+C:\Users\natya\source\repos\WinApp\bin\Debug\netcoreapp3.1\WinApp.pdb
+C:\Users\natya\source\repos\WinApp\obj\Debug\netcoreapp3.1\WinApp.csproj.AssemblyReference.cache
+C:\Users\natya\source\repos\WinApp\obj\Debug\netcoreapp3.1\WinApp.Form1.resources
+C:\Users\natya\source\repos\WinApp\obj\Debug\netcoreapp3.1\WinApp.csproj.GenerateResource.cache
+C:\Users\natya\source\repos\WinApp\obj\Debug\netcoreapp3.1\WinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natya\source\repos\WinApp\obj\Debug\netcoreapp3.1\WinApp.AssemblyInfoInputs.cache
+C:\Users\natya\source\repos\WinApp\obj\Debug\netcoreapp3.1\WinApp.AssemblyInfo.cs
+C:\Users\natya\source\repos\WinApp\obj\Debug\netcoreapp3.1\WinApp.csproj.CoreCompileInputs.cache
+C:\Users\natya\source\repos\WinApp\obj\Debug\netcoreapp3.1\WinApp.dll
+C:\Users\natya\source\repos\WinApp\obj\Debug\netcoreapp3.1\WinApp.pdb
+C:\Users\natya\source\repos\WinApp\obj\Debug\netcoreapp3.1\WinApp.genruntimeconfig.cache
+C:\Users\natya\source\repos\WinApp\obj\Debug\netcoreapp3.1\WinApp.Properties.Resources.resources
